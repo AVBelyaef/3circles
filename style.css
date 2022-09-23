@@ -28,6 +28,9 @@
   font-weight: 600;
 }
 
+.content {
+  cursor: pointer;
+}
 .content__title {
   text-align: center;
   -webkit-text-decoration-line: underline;
